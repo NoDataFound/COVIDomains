@@ -6,6 +6,7 @@ _/ ___\/  _ \  \/ /  |/ __ | |   \____    /
  \___  >____/ \_/ |__\____ | |___| /____/  
      \/           Potentially Bad Domains            
 
+Disclaimer: Use at your own risk.  
 
 Kernel Domains (updated 03.27.20)
 ===============
