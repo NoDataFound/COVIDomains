@@ -6,7 +6,6 @@ _/ ___\/  _ \  \/ /  |/ __ | |   \____    /
  \___  >____/ \_/ |__\____ | |___| /____/  
      \/           Potentially Bad Domains            
 
-```
 
 Kernel Domains (updated 03.27.20)
 ===============
@@ -22,3 +21,5 @@ HTTP and SMTP service banners
 GeoIP location
 Check MX host can be used to intercept e-mails
 Only registered domain names
+
+```
