@@ -12,7 +12,6 @@ Kernel Domains (updated 03.27.20)
 ===============
 covid[.]com
 covid19[.]com
-corona[.]com
 coronavirus[.]com
 
 Hunting for using DNStwist
