@@ -12,10 +12,11 @@ Disclaimer: Use at your own risk.
 Note: Output of hunting from the below domains are stored in COVIDomains.csv (The below is not the list of potentially bad!)
 Hunt Kernel Domains (updated 03.29.20)
 ===============
-covid[.]com
-covid19[.]com
-coronavirus[.]com
-corona[.]com
+covid[.]*
+covid19[.]*
+coronavirus[.]*
+corona[.]*
+corona-virus[.]*
 
 
 Hunting for using DNStwist
