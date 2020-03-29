@@ -6,13 +6,17 @@ _/ ___\/  _ \  \/ /  |/ __ | |   \____    /
  \___  >____/ \_/ |__\____ | |___| /____/  
      \/           Potentially Bad Domains            
 
+
 Disclaimer: Use at your own risk.  
 
-Kernel Domains (updated 03.27.20)
+Note: Output of hunting from the below domains are stored in COVIDomains.csv (The below is not the list of potentially bad!)
+Hunt Kernel Domains (updated 03.29.20)
 ===============
 covid[.]com
 covid19[.]com
 coronavirus[.]com
+corona[.]com
+
 
 Hunting for using DNStwist
 ===============
